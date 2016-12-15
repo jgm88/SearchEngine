@@ -1,0 +1,24 @@
+IndexadorHash a:
+################
+Fichero con el listado de palabras de parada: ./StopWordsEspanyol.txt
+Tokenizador: DELIMITADORES: . ,: TRATA CASOS ESPECIALES: 1 PASAR A MINUSCULAS Y SIN ACENTOS: 1
+Directorio donde se almacenara el indice generado: ./indicePrueba
+Stemmer utilizado: 1
+Informacion de la coleccion indexada: numDocs: 0	numTotalPal: 0	numTotalPalSinParada: 0	numTotalPalDiferentes: 0	tamBytes: 0
+Se almacenara parte del indice en disco duro: 0
+Se almacenaran las posiciones de los terminos: 1
+
+pal4	Frecuencia total: 1	fd: 1	Id.Doc: 2	ft: 1	3
+pal3	Frecuencia total: 1	fd: 1	Id.Doc: 1	ft: 1	4
+pal2	Frecuencia total: 3	fd: 2	Id.Doc: 2	ft: 2	0	2	Id.Doc: 1	ft: 1	2
+pal1	Frecuencia total: 2	fd: 1	Id.Doc: 1	ft: 2	0	3
+SE HA BORRADO LA PALABRA pal2
+pal4	Frecuencia total: 1	fd: 1	Id.Doc: 2	ft: 1	3
+pal3	Frecuencia total: 1	fd: 1	Id.Doc: 1	ft: 1	4
+pal1	Frecuencia total: 2	fd: 1	Id.Doc: 1	ft: 2	0	3
+
+SOLO DEBE AÑADIR pal2
+pal4	Frecuencia total: 1	fd: 1	Id.Doc: 2	ft: 1	3
+pal3	Frecuencia total: 1	fd: 1	Id.Doc: 1	ft: 1	4
+pal1	Frecuencia total: 2	fd: 1	Id.Doc: 1	ft: 2	0	3
+

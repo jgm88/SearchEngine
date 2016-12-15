@@ -1,0 +1,10 @@
+--------------------------------------------------------
+[ /!\ ERROR - SALIDAS DISTINTAS "tads/buscador//tad02.cpp" ] 
+1,2c1,2
+< 0 DFR fichero1 0 64.01 pal1 pal7
+< 0 BM25 fichero1 0 78.23 pal1 pal7
+---
+> 0 DFR corpus_corto/fichero1.txt 0 1.5 pal1 pal7
+> 0 BM25 corpus_corto/fichero2.txt 0 0 pal1 pal7
+--------------------------------------------------------
+

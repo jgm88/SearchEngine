@@ -1,0 +1,2 @@
+0 BM25 fichero2 0 0 pal1 pal4
+0 BM25 fichero1 1 0 pal1 pal4
